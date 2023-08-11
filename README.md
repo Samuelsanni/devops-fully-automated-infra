@@ -5,11 +5,10 @@
 
 ## CICD Applications setup
 1) ###### GitHub setup
-    Fork GitHub Repository by using the existing repo "DevOps-fully-automated" (https://github.com/cvamsikrishna11/devops-fully-automated)     
+    Fork GitHub Repository by using the existing repo "DevOps-fully-automated-infra.git"(https://github.com/Samuelsanni/devops-fully-automated-infra.git)     
     - Go to GitHub (github.com)
     - Login to your GitHub Account
-    - **Fork repository "devops-fully-automated" (https://github.com/cvamsikrishna11/devops-fully-automated) & name it "devops-fully-automated"**
-    - Clone your newly created repo to your local
+    - **Fork repository "devops-fully-automated" (https://github.com/Samuelsanni/devops-fully-automated-infra.git)
 
 2) ###### Jenkins/Maven/Ansible
     - Create an **Amazon Linux 2 VM** instance and call it "Jenkins"
